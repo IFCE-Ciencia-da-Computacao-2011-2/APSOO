@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="264px" preserveAspectRatio="none" style="width:602px;height:264px;" version="1.1" viewBox="0 0 602 264" width="602px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="285" y="22.9951">MVC</text><rect fill="#DDDDDD" height="223.0938" style="stroke: #383838; stroke-width: 1.0;" width="339" x="4" y="34.2969"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="35" x="156" y="46.3638">View</text><rect fill="#DDDDDD" height="223.0938" style="stroke: #383838; stroke-width: 1.0;" width="69" x="345" y="34.2969"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="45" x="357" y="46.3638">Model</text><rect fill="#DDDDDD" height="223.0938" style="stroke: #383838; stroke-width: 1.0;" width="94" x="416" y="34.2969"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="427" y="46.3638">Controller</text><rect fill="#DDDDDD" height="223.0938" style="stroke: #383838; stroke-width: 1.0;" width="89" x="512" y="34.2969"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="536" y="46.3638">Other</text><rect fill="#FFFFFF" height="9.1328" style="stroke: #383838; stroke-width: 1.0;" width="10" x="224" y="245.2578"/><rect fill="#FFFFFF" height="71.2656" style="stroke: #383838; stroke-width: 1.0;" width="10" x="374.5" y="115.7266"/><rect fill="#FFFFFF" height="34.1328" style="stroke: #383838; stroke-width: 1.0;" width="10" x="379.5" y="152.8594"/><rect fill="#FFFFFF" height="29.1328" style="stroke: #383838; stroke-width: 1.0;" width="10" x="458" y="216.125"/><rect fill="#FFFFFF" height="67.3984" style="stroke: #383838; stroke-width: 1.0;" width="10" x="551.5" y="186.9922"/><line style="stroke: #383838; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="58" x2="58" y1="84.7266" y2="263.3906"/><line style="stroke: #383838; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="229" x2="229" y1="84.7266" y2="263.3906"/><line style="stroke: #383838; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="379" x2="379" y1="84.7266" y2="263.3906"/><line style="stroke: #383838; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="463" x2="463" y1="84.7266" y2="263.3906"/><line style="stroke: #383838; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="556" x2="556" y1="84.7266" y2="263.3906"/><rect fill="#F8F8F8" height="30.2969" style="stroke: #383838; stroke-width: 1.5;" width="101" x="8" y="53.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="87" x="15" y="73.4248">:Component</text><rect fill="#F8F8F8" height="30.2969" style="stroke: #383838; stroke-width: 1.5;" width="220" x="119" y="53.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="206" x="126" y="73.4248">otherComponent:Component</text><rect fill="#F8F8F8" height="30.2969" style="stroke: #383838; stroke-width: 1.5;" width="61" x="349" y="53.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="356" y="73.4248">:Model</text><rect fill="#F8F8F8" height="30.2969" style="stroke: #383838; stroke-width: 1.5;" width="86" x="420" y="53.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="72" x="427" y="73.4248">:Controller</text><rect fill="#F8F8F8" height="30.2969" style="stroke: #383838; stroke-width: 1.5;" width="81" x="516" y="53.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="67" x="523" y="73.4248">:ModHost</text><rect fill="#FFFFFF" height="9.1328" style="stroke: #383838; stroke-width: 1.0;" width="10" x="224" y="245.2578"/><rect fill="#FFFFFF" height="71.2656" style="stroke: #383838; stroke-width: 1.0;" width="10" x="374.5" y="115.7266"/><rect fill="#FFFFFF" height="34.1328" style="stroke: #383838; stroke-width: 1.0;" width="10" x="379.5" y="152.8594"/><rect fill="#FFFFFF" height="29.1328" style="stroke: #383838; stroke-width: 1.0;" width="10" x="458" y="216.125"/><rect fill="#FFFFFF" height="67.3984" style="stroke: #383838; stroke-width: 1.0;" width="10" x="551.5" y="186.9922"/><polygon fill="#383838" points="362.5,111.7266,372.5,115.7266,362.5,119.7266" style="stroke: #383838; stroke-width: 1.0;"/><line style="stroke: #383838; stroke-width: 1.0;" x1="58.5" x2="368.5" y1="115.7266" y2="115.7266"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="86" x="65.5" y="110.7935">setAnything()</text><line style="stroke: #383838; stroke-width: 1.0;" x1="384.5" x2="431.5" y1="139.9922" y2="139.9922"/><line style="stroke: #383838; stroke-width: 1.0;" x1="431.5" x2="431.5" y1="139.9922" y2="152.9922"/><line style="stroke: #383838; stroke-width: 1.0;" x1="390.5" x2="431.5" y1="152.9922" y2="152.9922"/><polygon fill="#383838" points="400.5,148.9922,390.5,152.9922,400.5,156.9922" style="stroke: #383838; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="396.5" y="134.9263">notify()</text><polygon fill="#383838" points="539.5,182.9922,549.5,186.9922,539.5,190.9922" style="stroke: #383838; stroke-width: 1.0;"/><line style="stroke: #383838; stroke-width: 1.0;" x1="379.5" x2="545.5" y1="186.9922" y2="186.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="386.5" y="182.0591">notify()</text><polygon fill="#383838" points="446,212.125,456,216.125,446,220.125" style="stroke: #383838; stroke-width: 1.0;"/><line style="stroke: #383838; stroke-width: 1.0;" x1="58.5" x2="452" y1="216.125" y2="216.125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="65.5" y="211.1919">notify()</text><polygon fill="#383838" points="245,241.2578,235,245.2578,245,249.2578" style="stroke: #383838; stroke-width: 1.0;"/><line style="stroke: #383838; stroke-width: 1.0;" x1="239" x2="462" y1="245.2578" y2="245.2578"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="251" y="240.3247">notify()</text><!--
+@startuml
+skinparam style strictuml
+skinparam shadowing false
+skinparam monochrome true
+
+title MVC
+
+participant ":Component"
+participant ":Controller"
+participant ":Model"
+participant ":ModHost"
+participant "otherComponent:Component"
+
+
+box "View"
+	participant ":Component"
+	participant "otherComponent:Component"
+end box
+
+box "Model"
+	participant ":Model"
+end box
+
+box "Controller"
+	participant ":Controller"
+end box
+
+box "Other"
+	participant ":ModHost"
+end box
+
+":Component" -> ":Model": setAnything()
+activate ":Model"
+
+    ":Model" -> ":Model": notify()
+    activate ":Model"
+        ":Model" -> ":ModHost": notify()
+    deactivate ":Model"
+    activate ":ModHost"
+    deactivate ":ModHost"
+
+deactivate ":Model"
+
+":Component" -> ":Controller": notify()
+activate ":Controller"
+    ":Controller" -> "otherComponent:Component": notify()
+deactivate ":Controller"
+activate "otherComponent:Component"
+deactivate "otherComponent:Component"
+@enduml
+
+PlantUML version 2017.09(Wed Apr 05 16:07:11 UTC 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
